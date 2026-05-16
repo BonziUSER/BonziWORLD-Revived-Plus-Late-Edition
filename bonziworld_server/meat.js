@@ -686,7 +686,7 @@ let userCommands = {
                 setTimeout(function () {
                     target.disconnect();
                     target.socket.emit("kick", {
-                        reason: "No fuck off<br><br><video style='border-radius: 3px;' src=\"https://cdn.discordapp.com/attachments/954050025170825237/1025126830845472798/DankVideo15.mp4\" autoplay loop width=380>",
+                        reason: "No fuck off<br><br><video style='border-radius: 3px;' src=\"https://files.catbox.moe/kh6m2d.mp4\" autoplay loop width=380>",
 						//reason: "No fuck off<br><audio style='display: none;' src=\"/sfx/no_fuck_off.mp3\" autoplay loop width=380>",
                     });
                 }, 380);
